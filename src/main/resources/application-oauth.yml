@@ -1,0 +1,14 @@
+
+#1031534200146-3nl09osnaf31vk3po8ph1n071n553al3.apps.googleusercontent.com
+#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
+
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 1031534200146-3nl09osnaf31vk3po8ph1n071n553al3.apps.googleusercontent.com
+            client-secret: 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
+            scope: email
